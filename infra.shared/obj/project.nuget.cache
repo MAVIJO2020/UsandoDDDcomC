@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8FPNUgO7oDAxs6VEs3a4K7DkkzOCYHNPjgJyJHBPVo3tjpE3nx6ptMR7I0z4ZL94Hn/wqCAOGrzZz4KlmvRlTw==",
+  "success": true,
+  "projectFilePath": "D:\\BOOTCAMP\\AVANADE\\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\\Infra.Shared\\Infra.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

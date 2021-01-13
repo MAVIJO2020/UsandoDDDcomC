@@ -1,0 +1,15 @@
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.deps.json
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.json
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.dev.json
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csprojAssemblyReference.cache
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfoInputs.cache
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfo.cs
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CopyComplete
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.genruntimeconfig.cache

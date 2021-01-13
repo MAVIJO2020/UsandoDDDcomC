@@ -1,0 +1,16 @@
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.deps.json
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.pdb
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csprojAssemblyReference.cache
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfoInputs.cache
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfo.cs
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CopyComplete
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.pdb

@@ -1,0 +1,12 @@
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.deps.json
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csprojAssemblyReference.cache
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfoInputs.cache
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfo.cs
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CopyComplete
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.dll
+D:\BOOTCAMP\AVANADE\aplicacao-csharp-usando-ddd-bootcampDecolaDev-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.pdb
